@@ -1,3 +1,7 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "ALX School"
 
+=======
+echo "ALX School is so cool!"
+>>>>>>> 2b88176aac25c64f6ea63cecb4146916d699c255
